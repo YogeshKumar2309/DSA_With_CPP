@@ -1,3 +1,3 @@
 ## day * hours = total hours completed
 
- 3D * 2H = 6H
+ 4D * 2H = 8H
